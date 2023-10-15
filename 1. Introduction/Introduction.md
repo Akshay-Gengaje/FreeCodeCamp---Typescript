@@ -1,7 +1,11 @@
 # Introduction to Typescript
 
 TypeScript is an open-source programming language developed and maintained by Microsoft. It is a statically-typed superset of JavaScript, which means it extends and enforces JavaScript by adding static type checking to the language. TypeScript is designed to make it easier to build large, complex software systems by providing features that help catch and prevent common programming errors during development.
-![Alt text](WHATS-TYPESCRIPT_.png)
+
+<div style="text-align:center">
+  <img src="WHATS-TYPESCRIPT_.png" alt="drawing" style="width:50%;" />
+</div>
+
 Here are some key features and concepts associated with TypeScript:
 
 1. **Static Typing:** TypeScript introduces a static type system that allows developers to specify the types of variables, function parameters, and return values. This type checking helps catch type-related errors at compile-time, rather than runtime, which can lead to more robust and maintainable code.
