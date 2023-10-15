@@ -1,3 +1,5 @@
+# Execution of TypeScript
+
 TypeScript does not execute code directly. Instead, it goes through a compilation process to generate plain JavaScript, which can be executed by a JavaScript runtime environment. Here's an overview of how TypeScript code is executed:
 
 1. **Writing TypeScript Code:** Developers write their code in TypeScript, taking advantage of TypeScript's static typing and other language features.

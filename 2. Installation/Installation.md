@@ -1,3 +1,5 @@
+# Installation
+
 To install TypeScript on your computer, you'll need to use a package manager, such as npm (Node Package Manager) or yarn. TypeScript is typically installed globally or locally, depending on your needs. Here are the steps to install TypeScript:
 
 **Global Installation (Recommended for Most Cases):**
